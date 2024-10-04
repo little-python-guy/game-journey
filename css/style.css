@@ -8,9 +8,19 @@ body.bg-login {
     background-image: url(../assets/img/login-bg.webp);
 }
 
+body.register-bg {
+    background-image: url(../assets/img/register-bg.jpeg);
+}
+
 div.login-bg {
-    width: 50%;
+    width: 45%;
     height: 70%;
+    box-shadow: 2px 2px 10px black;
+}
+
+div.register-card {
+    width: 45%;
+    height: 80%;
     box-shadow: 2px 2px 10px black;
 }
 
