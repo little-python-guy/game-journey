@@ -1,4 +1,9 @@
 <?php include_once('../partials/header.php') ?>
+
+    <title>Login</title>
+
+</head>
+
 <body class="bg-login">
 
     <div class="container-sm d-flex flex-column vh-100 align-items-center justify-content-center bg-login">
@@ -26,7 +31,7 @@
         </div>
         <!-- FINAL - CARD DE LOGIN -->
         
-        <p class="text-white mt-3">Não possui cadastro? Faça seu registro <a href="">aqui.</a></p>
+        <p class="text-white mt-3">Não possui cadastro? Faça seu registro <a href="register.php">aqui.</a></p>
 
     </div>
 

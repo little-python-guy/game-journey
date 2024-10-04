@@ -9,7 +9,3 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../css/style.css">
-
-    <title>Teste</title>
-
-</head>
