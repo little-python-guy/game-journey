@@ -1,10 +1,11 @@
 CREATE DATABASE IF NOT EXISTS game_journey_bd;
 
-USE DATABASE game_journey_bd;
+USE game_journey_bd;
 
 CREATE TABLE IF NOT EXISTS usuario (
     id_usuario INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     nome_usuario VARCHAR(100),
+    email VARCHAR(100),
     login VARCHAR(45),
     senha VARCHAR(20)
 );
