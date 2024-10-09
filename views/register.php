@@ -10,7 +10,7 @@
 
         <div class="d-flex flex-column justify-content-center align-items-center register-card bg-dark rounded-4">
 
-            <h1 class="text-white mb-3">Cadastro de Usuário</h1><br>
+            <h1 class="text-white mb-5">Cadastro de Usuário</h1><br>
             <p class="text-white">Registre seus dados</p>
 
             <form class="custom-width login-form" action="../controller/insert-user.php" method="POST">

@@ -11,7 +11,7 @@
         <!-- COMEÇO - CARD DE LOGIN -->
         <div class="d-flex flex-column align-items-center justify-content-center rounded-4 bg-dark login-bg">
 
-            <h1 class="text-white mb-3">Bem-Vindo !!!</h1>
+            <h1 class="text-white mb-5">Bem-Vindo !!!</h1>
             <p class="text-white">Entre com seus dados para prosseguir</p>
 
             <form class="custom-width login-form" action="./main-menu.php" method="POST">
