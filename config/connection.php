@@ -7,14 +7,14 @@
     
     $connect = mysqli_connect($host, $username, $db_password, $db_name);
 
-    if ($connect) {
+    // if ($connect) {
 
-        echo "Conexão OK";
+    //     echo "Conexão OK";
 
-    } else {
+    // } else {
 
-        echo "Conexão Falhou";
+    //     echo "Conexão Falhou";
 
-    } 
+    // } 
 
 ?>
