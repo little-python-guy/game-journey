@@ -14,7 +14,7 @@
             <h1 class="text-white mb-5">Bem-Vindo !!!</h1>
             <p class="text-white">Entre com seus dados para prosseguir</p>
 
-            <form class="custom-width login-form" action="./main-menu.php" method="POST">
+            <form class="custom-width login-form" action="../controller/select-user.php" method="POST">
                 <div class="form-floating mb-5">
                     <input class="form-control w-100" type="text" name="user" id="user" placeholder="Digite seu nome de usuário" required>
                     <label for="user">Usuário</label>

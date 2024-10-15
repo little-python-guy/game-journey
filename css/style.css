@@ -39,11 +39,20 @@ div.register-card {
     box-shadow: 2px 2px 10px black;
 }
 
+div.edit-page {
+    background-color: gray;
+}
+
 form.custom-width {
     width: 300px;
 }
 
+.card-padding {
+    padding: 4rem;
+}
+
 div.form-floating label,
-form.login-form div button.btn {
+form.login-form,
+button.btn {
     font-size: 18px;
 }

@@ -21,12 +21,12 @@
             $_SESSION['session_user'] = [$user, $password];
             echo "<br>" . $data['nome_usuario'] . " " . $data['login'] . " " . $data['senha'];
 
-            header('Location: table.php');
+            header('Location: ../views/list.php');
 
 
         } else {
 
-            header('Location: login.php');
+            header('Location: ../views/login.php');
 
         }
 
